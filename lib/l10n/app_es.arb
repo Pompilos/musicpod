@@ -12,7 +12,7 @@
     "podcast": "Podcast",
     "likedSongs": "Canciones favoritas",
     "likedSongsDescription": "Todos los audios que has marcado como favoritos, localmente o de internet.",
-    "likedSongsSubtitle": "Presiona el botón de corazón to agregar a favoritos",
+    "likedSongsSubtitle": "Presiona el botón de corazón para agregar a favoritos",
     "cancel": "Cancelar",
     "add": "Añadir",
     "addTo": "Añadir a:",
@@ -63,11 +63,11 @@
     "newEpisodeAvailable": "Nuevo episodio disponible:",
     "noStationFound": "Lo siento, no se ha encontrado ningúna estación que concida con esa búsqueda",
     "nothingFound": "Sin resultados",
-    "tags": "Tags",
+    "tags": "Etiquetas",
     "quality": "Calidad",
     "station": "Estación",
     "country": "País",
-    "tag": "Tag",
+    "tag": "Etiqueta",
     "failedToImport": "No se pudieron importar los siguientes archivos:",
     "unknown": "Desconocido",
     "volume": "Volumen",
@@ -86,7 +86,7 @@
     "pickMusicCollection": "Selecciona tu colección de música",
     "newEpisode": "Nuevo",
     "dontShowAgain": "No mostrar de nuevo",
-    "queueConfirmMessage": "Seguro de que quieres agregar a la cola {length} elementos?",
+    "queueConfirmMessage": "¿Seguro que quieres agregar a la cola {length} elementos?",
     "@queueConfirmMessage": {
         "placeholders": {
             "length": {
@@ -94,6 +94,6 @@
             }
         }
     },
-    "emptyPlaylist": "Esta lista de reproducción se encuentra vacía",
+    "emptyPlaylist": "Esta lista de reproducción está vacía",
     "copiedToClipBoard": "Copiado al portapapeles:"
 }
